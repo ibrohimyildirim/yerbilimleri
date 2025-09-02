@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-yerbilimleri_site documentation
+yerbilimleri_site documentationsss
 ===============================
 
 Add your content using ``reStructuredText`` syntax. See the
