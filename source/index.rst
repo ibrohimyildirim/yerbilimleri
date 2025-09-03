@@ -7,8 +7,8 @@ Hoşgeldiniz
 ===============================
 www.yerbilimleri.xyz 02/09/2025 tarihinde hayata geçti.
 
-.. amaç::
-
+.. purpose::
+   
    Yerbilimleri hakkında yazılar...
 
 .. toctree::
