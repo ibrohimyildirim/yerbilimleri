@@ -12,7 +12,7 @@ www.yerbilimleri.xyz 02/09/2025 tarihinde hayata geçti.
    Yerbilimleri hakkında yazılar
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    jeofizik
    jeoloji
