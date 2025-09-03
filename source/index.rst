@@ -17,4 +17,5 @@ Deneme
    :caption: İçindekiler
 
    icerik/jeofizik
+   index
 
