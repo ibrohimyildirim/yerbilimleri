@@ -26,7 +26,6 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-
 html_theme_options = [
     'collapse_navigation': True,    # Alt menüler kapalı başlar
     'sticky_navigation': True,
