@@ -15,7 +15,7 @@ www.yerbilimleri.xyz 02/09/2025 tarihinde hayata geçti.
    :maxdepth: 1
    :hidden:
 
-   jeofizikk
+   jeofizik
    jeoloji
    jeokimya
 
