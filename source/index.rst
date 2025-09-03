@@ -16,3 +16,4 @@ Deneme
    :maxdepth: 2
 
    index
+   deneme
