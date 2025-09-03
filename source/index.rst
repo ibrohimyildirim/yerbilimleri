@@ -14,7 +14,7 @@ Deneme
 
 .. toctree::
    :maxdepth: 2
+   :caption: İçindekiler
 
-   index
-   deneme
-   ...
+   icerik/jeofizik
+
