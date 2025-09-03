@@ -1,4 +1,0 @@
-Jeofizik
-==============
-   
-Deneme
