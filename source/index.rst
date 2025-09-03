@@ -10,5 +10,6 @@ www.yerbilimleri.xyz 02/09/2025 tarihinde hayata geçti.
 .. toctree::
    :maxdepth: 2
    :caption: 
-   
+
+   index
    icerik/deneme
