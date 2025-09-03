@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'yerbilimleri_site'
-copyright = '2025, ibrahim_yildirim'
+project = 'Anasayfa'
+copyright = '2025, yerbilimleri.xyz'
 author = 'ibrahim_yildirim'
 release = '2025'
 
