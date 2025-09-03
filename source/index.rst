@@ -16,6 +16,5 @@ Deneme
    :maxdepth: 2
    :caption: İçindekiler
 
-   icerik/jeofizik
-   index
+   jeofizik
 
