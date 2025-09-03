@@ -17,6 +17,4 @@ www.yerbilimleri.xyz 02/09/2025 tarihinde hayata geçti.
 
    jeofizik
    jeoloji
-   elektromanyetik
-   manyetik
 
