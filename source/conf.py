@@ -14,7 +14,20 @@ release = '2025'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = extensions = [
+    'sphinx.ext.doctest',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.todo',
+    'sphinx.ext.coverage',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.viewcode',
+    'sphinxcontrib.bibtex',
+    'sphinx_rtd_theme',
+    'matplotlib.sphinxext.plot_directive',
+    'purpose',
+    'question',
+    'geosciapp',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
